@@ -1,5 +1,4 @@
 //https://www.codingame.com/ide/puzzle/blowing-fuse
-//https://www.codingame.com/ide/puzzle/horse-racing-hyperduals
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
